@@ -107,10 +107,10 @@ pre code {
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
 }
 .header.navbar-fixed-top .logo a {
-  color: #aaa383;
+  color: #ecb902;
 }
 .header.navbar-fixed-top .main-nav .nav .nav-item a {
-  color: #aaa383;
+  color: #4a5154;
 }
 .header .logo {
   margin: 0;
@@ -150,7 +150,7 @@ pre code {
   font-family: 'Cabin', sans-serif;', sans-serif;
 }
 .header .main-nav .nav .nav-item.active a {
-  color: #e8dfc6;
+  color: #ecb902;
   background: none;
 }
 .header .main-nav .nav .nav-item a {
@@ -163,7 +163,7 @@ pre code {
   padding: 15px 10px;
 }
 .header .main-nav .nav .nav-item a:hover {
-  color: #7e7362;
+  color: #064e67;
   background: none;
 }
 .header .main-nav .nav .nav-item a:focus {
@@ -175,7 +175,7 @@ pre code {
   background: none;
 }
 .header .main-nav .nav .nav-item.active {
-  color: #7e7362;
+  color: #064e67;
 }
 .header .main-nav .nav .nav-item.last {
   margin-right: 0;
@@ -241,7 +241,7 @@ pre code {
   background: #fff;
 }
 .about .title {
-  color: #074f66;
+  color: #4a5154;
   margin-top: 0;
   margin-bottom: 60px;
 }
@@ -261,14 +261,14 @@ pre code {
 }
 .about .item .icon-holder .fa {
   font-size: 24px;
-  color: #074f66;
+  color: #4a5154;
 }
 .about .item .content {
   padding-left: 60px;
 }
 .about .item .content .sub-title {
   margin-top: 0;
-  color: #074f66;
+  color: #4a5154;
   font-size: 18px;
 }
 /* ======= Features Section ======= */
@@ -475,7 +475,7 @@ pre code {
   position: relative;
 }
 .contact .author-message .speech-bubble .sub-title {
-  color: #074f66;
+  color: #4a5154;
   font-size: 16px;
   margin-top: 0;
   margin-bottom: 30px;
@@ -505,7 +505,7 @@ pre code {
   color: #0c86ae;
 }
 .contact .info .sub-title {
-  color: #0e98c5;
+  color: #064e67;
   margin-bottom: 30px;
   margin-top: 0;
 }
@@ -524,7 +524,7 @@ pre code {
 }
 .contact .social-icons a {
   display: inline-block;
-  background: #0c86ae;
+  background: #4a5154;
   width: 48px;
   height: 48px;
   text-align: center;
@@ -541,7 +541,7 @@ pre code {
   float: left;
 }
 .contact .social-icons a:hover {
-  background: #e6ad14;
+  background: #ecb901;
 }
 .contact .social-icons a .fa {
   color: #fff;
@@ -651,9 +651,9 @@ pre code {
       }
 
  p {
-    font-family: 'Josefin Slab', sans-serif;,
+    font-family: 'Open Sans', sans-serif;,
     color: #2c3034;
-    font-size: 18px;
+    font-size: 24px;
      }
 
  .project-p {
@@ -674,9 +674,15 @@ pre code {
 
 
   /* ======= Project ======= */
+  .project-1 {
+    text-align: center;
+     padding-bottom: 3%;
+
+  }
 
   .project-p-c {
-    text-align: center;
+    /*text-align: center;*/
+     padding-bottom: 3%;
 
   }
 
