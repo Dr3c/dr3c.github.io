@@ -195,7 +195,7 @@ pre code {
   color: #ecb728;
 }
 .promo .intro {
-  font-size: 28px;
+  font-size: 24px;
   max-width: 680px;
   margin: 0 auto;
   margin-bottom: 30px;
@@ -680,10 +680,16 @@ pre code {
 
   }
 
+.project-p-c-1 {
+    /*text-align: center;*/
+     
+     padding-top: 3%;
+  }
+
   .project-p-c {
     /*text-align: center;*/
      padding-bottom: 3%;
-
+     padding-top: 3%;
   }
 
   .project-p-inner {
