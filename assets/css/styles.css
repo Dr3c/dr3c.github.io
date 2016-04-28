@@ -25,6 +25,16 @@ h6 {
   font-weight: 700;
   color: #ecb728;
 }
+
+.text-li {
+  font-family: 'Cabin', arial, sans-serif;
+  color: #2c3034;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+
+}
 a {
   color: #ecb728;
   -webkit-transition: all 0.4s ease-in-out;
